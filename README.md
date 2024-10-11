@@ -1,1 +1,17 @@
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+## Hash Table
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+<!---LeetCode Topics End-->
