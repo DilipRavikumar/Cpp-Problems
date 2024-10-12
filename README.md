@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Database
+|  |
+| ------- |
+| [1390-average-selling-price](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
