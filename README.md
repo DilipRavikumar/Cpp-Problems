@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0182-duplicate-emails) |
 | [0596-classes-more-than-5-students](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0619-biggest-single-number) |
 | [1161-project-employees-i](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1161-project-employees-i) |
