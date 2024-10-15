@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0596-classes-more-than-5-students) |
+| [0619-biggest-single-number](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0619-biggest-single-number) |
 | [1161-project-employees-i](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1161-project-employees-i) |
 | [1338-queries-quality-and-percentage](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1390-average-selling-price) |
