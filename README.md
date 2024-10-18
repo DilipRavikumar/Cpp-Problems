@@ -7,6 +7,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Hash Table
@@ -77,4 +78,16 @@
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0670-maximum-swap) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
