@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3195-separate-black-and-white-balls](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
@@ -92,4 +93,12 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
