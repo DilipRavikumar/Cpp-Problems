@@ -56,6 +56,7 @@
 | [0183-customers-who-never-order](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0596-classes-more-than-5-students](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0596-classes-more-than-5-students) |
+| [0610-triangle-judgement](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0619-biggest-single-number) |
 | [1155-product-sales-analysis-iii](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1161-project-employees-i) |
