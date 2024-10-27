@@ -7,6 +7,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -164,4 +165,12 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
