@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -75,6 +77,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Database
@@ -121,6 +124,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String
 |  |
@@ -219,6 +223,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -242,4 +247,12 @@
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
