@@ -1,4 +1,4 @@
-using info = pair<int, int>; // (time, i*m+j)
+using info = pair<int, int>;
 const static int d[5] = {0, 1, 0, -1, 0};
 class Solution {
 public:
@@ -9,15 +9,12 @@ public:
 
     int minimumTime(vector<vector<int>>& grid) {
         if (grid[1][0] > 1 && grid[0][1] > 1)
-            return -1; // edge case
-
+            return -1; 
         const int n = grid.size(), m = grid[0].size(), N = 100000;
         int time[N];
         fill(time, time + n * m, INT_MAX);
         uint64_t pq[N];
         int back = 0;
-
-        // Start at (0, 0) with time=0
         pq[back++] = 0;
         time[0] = 0;
         while (back > 0) {
@@ -26,23 +23,17 @@ public:
             int t = tij >> 32, ij = tij & ((1 << 30) - 1), i = ij / m,
                 j = ij - i * m;
 
-            //    cout<<" t="<<int(t)<<" i="<<int(i)<<" j="<<int(j)<<endl;
-            // reach the destination
             if (i == n - 1 && j == m - 1)
                 return t;
 
-            // Traverse all four directions
             for (int a = 0; a < 4; a++) {
                 int r = i + d[a], s = j + d[a + 1];
                 if (isOutside(r, s, n, m))
                     continue;
 
-                // minimum time to reach (r, s)
                 int w = ((grid[r][s] - t) & 1) ? 0 : 1;
                 int nextTime =
-                    max(t + 1, grid[r][s] + w); // backward if neccessary
-
-                // update if this path having quicker time
+                    max(t + 1, grid[r][s] + w);
                 int rs=idx(r, s, m);
                 if (nextTime < time[rs]) {
                     time[rs] = nextTime;
@@ -52,7 +43,7 @@ public:
             }
         }
 
-        return -1; // never reach
+        return -1;
     }
 };
 
