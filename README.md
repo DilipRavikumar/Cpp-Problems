@@ -18,6 +18,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2058-concatenation-of-array](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2058-concatenation-of-array](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2058-concatenation-of-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Stack
 |  |
