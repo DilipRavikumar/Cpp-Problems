@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0055-jump-game) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0787-sliding-puzzle](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -75,6 +76,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0055-jump-game) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1304-longest-happy-string) |
@@ -245,6 +247,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0055-jump-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2554-minimum-total-distance-traveled) |
