@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0055-jump-game) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0787-sliding-puzzle](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0787-sliding-puzzle) |
@@ -43,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0001-two-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
