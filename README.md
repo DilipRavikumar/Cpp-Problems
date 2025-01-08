@@ -40,6 +40,7 @@
 | [2716-prime-subtraction-operation](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
@@ -173,6 +174,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/3195-separate-black-and-white-balls) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/3451-string-compression-iii) |
 ## Math
 |  |
@@ -248,6 +250,7 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -286,6 +289,7 @@
 | ------- |
 | [0812-rotate-string](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -323,4 +327,12 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/2201-valid-arrangement-of-pairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/DilipRavikumar/Cpp-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
